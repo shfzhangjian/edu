@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+qa/
+.env
+.env.*
+*.log
+*学习记录*.json
